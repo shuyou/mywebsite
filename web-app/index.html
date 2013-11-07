@@ -27,6 +27,12 @@
               $("#dongtai").click(function(){
                   $(".content").load("dongtai.jsp");
               });
+              $(".nav21").mouseover(function(){
+                  $(".knav").css("display","block");
+              })
+              $(".knav1").mouseout(function(){
+                  $(".knav").css("display","none");
+              })
           })
     </script>
 </head>
@@ -76,7 +82,11 @@
          </div>
      </div>
      <div class="content">
-
+       <div class="knav">
+           <span class="knav1">请<a href="#">登录</a>后使用快捷导航<br>
+           没有账号，请<a href="#">注册</a>
+               </span>
+       </div>
      </div>
      <div class="footer">footer</div>
 </body>

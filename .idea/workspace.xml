@@ -5,11 +5,11 @@
     <ignored path="mywebsite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/index.html" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383746069781" ignored="false" />
-    <file path="/style.css" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383745063513" ignored="false" />
+    <file path="/index.html" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383813876590" ignored="false" />
+    <file path="/style.css" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383814242300" ignored="false" />
     <file path="/donghua.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383740255643" ignored="false" />
     <file path="/dongtai.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383740262115" ignored="false" />
-    <file path="/shouye.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383742797373" ignored="false" />
+    <file path="/shouye.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383813997415" ignored="false" />
     <file path="/sucai.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383740272187" ignored="false" />
     <file path="/tonghuagushi.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383740275713" ignored="false" />
     <file path="/zhoubian.jsp" changelist="87f7ac53-1dfa-4445-a762-47919815e7ff" time="1383740283241" ignored="false" />
@@ -72,73 +72,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="zuixindongtai.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/zuixindongtai.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="27" selection-start="265" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tonghuagushi.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/tonghuagushi.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sucai.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/sucai.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dongtai.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/dongtai.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="donghua.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/donghua.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="49" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+            <state line="22" column="29" selection-start="412" selection-end="412" vertical-scroll-proportion="0.5479705">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="22" selection-start="2777" selection-end="2777" vertical-scroll-proportion="3.0609038">
+            <state line="33" column="29" selection-start="1271" selection-end="1271" vertical-scroll-proportion="31.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhoubian.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/zhoubian.jsp">
+      <file leaf-file-name="shouye.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-app/shouye.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+            <state line="18" column="20" selection-start="451" selection-end="451" vertical-scroll-proportion="-8.055555">
               <folding />
             </state>
           </provider>
@@ -157,22 +112,21 @@
         <option value="$PROJECT_DIR$/web-app/zuixindongtai.jsp" />
         <option value="$PROJECT_DIR$/web-app/tognhuagushi.jsp" />
         <option value="$PROJECT_DIR$/web-app/luntan.jsp" />
-        <option value="$PROJECT_DIR$/web-app/shouye.jsp" />
         <option value="$PROJECT_DIR$/web-app/tonghuagushi.jsp" />
         <option value="$PROJECT_DIR$/web-app/zhoubian.jsp" />
         <option value="$PROJECT_DIR$/web-app/sucai.jsp" />
         <option value="$PROJECT_DIR$/web-app/dongtai.jsp" />
         <option value="$PROJECT_DIR$/web-app/donghua.jsp" />
-        <option value="$PROJECT_DIR$/web-app/css/style.css" />
         <option value="$PROJECT_DIR$/web-app/index.html" />
+        <option value="$PROJECT_DIR$/web-app/shouye.jsp" />
+        <option value="$PROJECT_DIR$/web-app/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="41" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -298,11 +252,12 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
@@ -312,12 +267,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:mywebsite">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -328,25 +277,18 @@
       <setting name="launchBrowser" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -377,6 +319,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -390,6 +345,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -411,13 +373,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="Grails:mywebsite" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -448,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="41" y="0" width="1382" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -470,7 +425,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -583,65 +538,65 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/shouye.jsp">
+    <entry file="file://$PROJECT_DIR$/web-app/donghua.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="26" selection-start="717" selection-end="717" vertical-scroll-proportion="0.6866538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/zhoubian.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/zuixindongtai.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="265" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/tonghuagushi.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/sucai.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+        <state line="7" column="7" selection-start="157" selection-end="157" vertical-scroll-proportion="0.22413793">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/dongtai.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5862069">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/donghua.jsp">
+    <entry file="file://$PROJECT_DIR$/web-app/sucai.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5862069">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
+    <entry file="file://$PROJECT_DIR$/web-app/tonghuagushi.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="49" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5862069">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/zuixindongtai.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="265" selection-end="319" vertical-scroll-proportion="0.5862069">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/zhoubian.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="25" selection-start="319" selection-end="319" vertical-scroll-proportion="0.5862069">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/shouye.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="451" selection-end="451" vertical-scroll-proportion="-8.055555">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="22" selection-start="2777" selection-end="2777" vertical-scroll-proportion="3.0609038">
+        <state line="33" column="29" selection-start="1271" selection-end="1271" vertical-scroll-proportion="31.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="412" selection-end="412" vertical-scroll-proportion="0.5479705">
           <folding />
         </state>
       </provider>

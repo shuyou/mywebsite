@@ -1,6 +1,6 @@
 body{
     margin-top: 0px;
-
+     background-color: #FFDC9A;
 }
 .header{
    background-image: url("../images/sub_head.jpg");
@@ -13,15 +13,14 @@ body{
 .content{
     width:1020px ;
     height: 1200px;
-    background-color: highlight;
     margin-left: 200px;
-
+    border: 1px solid #999999;
 
 }
 .footer{
     width: 1020px;
     height: 100px;
-    background-color: gray;
+    background-color: #F2DBB1;
     margin-left: 200px;
     margin-top: 10px;
 }
@@ -161,6 +160,10 @@ body{
      margin-top: 10px;
      display: inline-block;
  }
+.ban2 img{
+    width: 980px;
+    height: 180px;
+}
 .ban3{
     background-color: #adff2f;
     width: 980px;
@@ -206,4 +209,21 @@ body{
     margin-left: 5px;
     margin-top: 10px;
     display: inline-block;
+}
+.knav{
+    width: 220px;
+    height: 80px;
+    position: absolute;
+    z-index: 999;
+    margin-left: 796px;
+    display: none;
+    background-color: #ffffff;
+
+}
+.knav1{
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 200px;
+    height: 60px;
 }

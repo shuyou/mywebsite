@@ -16,7 +16,9 @@
          <span class="gonggao">gonggao</span>
          <span class="flash">flash</span>
      </div>
-     <div class="ban2"></div>
+     <div class="ban2">
+         <img src="images/pic1.jpg">
+     </div>
      <div class="ban3">
          <span class="ban31">flash</span>
          <span class="ban32">gonggao</span>
