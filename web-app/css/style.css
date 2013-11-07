@@ -227,3 +227,112 @@ body{
     width: 200px;
     height: 60px;
 }
+.create{
+    width: 100px;
+    height: 30px;
+   border:2px dotted #D8AD5F;
+    text-decoration: none;
+   display: inline-block;
+      text-align: center;
+    line-height: 30px;
+}
+.list{
+    width: 100px;
+    height: 30px;
+    border:1px dotted #D8AD5F;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+}
+.edit{
+    width: 100px;
+    height: 30px;
+    border:1px dotted #D8AD5F;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+}
+.delete{
+    width: 100px;
+    height: 30px;
+    border:1px dotted #D8AD5F;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+}
+ul li{
+    list-style: none;
+}
+table{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+table th{
+    width: 150px;
+    height: 30px;
+
+}
+table td{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+
+}
+.leftmenu{
+    width: 195px;
+    height:1200px;
+    float: left;
+    border: 2px dotted #999999;
+}
+.list-title{
+    background-color: #D8AD5F;
+    border-bottom: 1px dotted #999999;
+    height: 30px;
+}
+.titlefont{
+    margin-left: 12px;
+    display: inline-block;
+    margin-top: 5px;
+}
+.fieldcontain{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+.form{
+    border: 0px;
+}
+.buttons{
+    border: 1px dotted #999999;
+}
+.save{
+    background-color: #D8AD5F;
+}
+.menutitle{
+    background-color:#D8AD5F ;
+    width: 195px;
+    height: 30px;
+
+}
+.menufont{
+    font-weight: bold;
+    margin-left:20px;
+    display: inline-block;
+    margin-top: 5px;
+    color:#666666 ;
+}
+
+.menuitem{
+    width: 195px;
+    height: 30px;
+    cursor: pointer;
+}
+.menuitem a{
+    text-decoration: none;
+    color:#666666;
+}
+.menuitem:hover{
+    background-color: #ffffff;
+}
