@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-1.4.2.js"></script>
+    <script type="text/javascript">
+          $(document).ready(function(){
+              $(".shouye").click(function(){
+                  $(".content").load("shouye.jsp");
+              });
+              $("#zuixindongtai").click(function(){
+                  $(".content").load("zuixindongtai.jsp");
+              });
+              $("#tonghua").click(function(){
+                  $(".content").load("tonghuagushi.jsp");
+              });
+              $("#donghua").click(function(){
+                  $(".content").load("donghua.jsp");
+              });
+              $("#sucai").click(function(){
+                  $(".content").load("sucai.jsp");
+              });
+              $("#zhoubian").click(function(){
+                  $(".content").load("zhoubian.jsp");
+              });
+              $("#dongtai").click(function(){
+                  $(".content").load("dongtai.jsp");
+              });
+          })
+    </script>
+</head>
+<body>
+     <div class="header">
+         <div class="login">
+             <div class="u">
+                 <select>
+                     <option>用户名</option>
+                     <option>E-mail</option>
+                 </select>
+                 <input type="text">
+                 <input type="checkbox">自动登录
+                 <span>找回密码</span>
+             </div>
+             <div class="u">
+                <span class="loginfont">密码:</span><span class="in"><input type="text"></span><span class="loginfont"><input type="button" value="登录"></span>
+                 <span class="zhuce">注册</span>
+             </div>
+         </div>
+         <div class="search">
+             <div>
+                 <span class="searchlog">
+                 <img src="images/favicon.ico"></span>
+                 <span class="in">
+                     <input type="text"></span>
+                 <select>
+                     <option>帖子</option>
+                     <option>用户</option>
+                 </select>
+                 <span class="zhuce"><input type="button" value="搜索"></span>
+             </div>
+         </div>
+         <div class="nav">
+         <span class="shouye" ></span>
+         <span class="nav1">
+             <span class="n1" id="zuixindongtai">最新动态</span>
+             <span class="n1"id="tonghua">童话故事</span>
+             <span class="n1" id="donghua">阿狸动画</span>
+             <span class="n1" id="luntan">后援论坛</span>
+             <span class="n1" id="sucai">素材下载</span>
+             <span class="n1" id="zhoubian">阿狸周边</span>
+         </span>
+         <span class="nav2">
+             <span class="nav21">快捷导航</span>
+         </span>
+         </div>
+     </div>
+     <div class="content">
+
+     </div>
+     <div class="footer">footer</div>
+</body>
+</html>
